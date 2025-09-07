@@ -3,6 +3,7 @@
 Ever watched a midfielder orchestrate the perfect play? That split-second where chaos becomes beautiful order? That’s exactly how I see software engineering.
 I approach technology with the eye of an artist—finding beauty in algorithms and elegance in architecture. I aspire to contribute to the tech industry where creativity and logic work like a perfect team play to serve communities.
 `The best code, like the best football, makes the complex look effortless.`
+---
 <!--
 **meazamisgina/meazamisgina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
