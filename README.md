@@ -1,7 +1,7 @@
 ## Hi, I'm Meaza 👋
 
 Ever watched a midfielder orchestrate the perfect play? That split-second where chaos becomes beautiful order? That’s exactly how I see software engineering.
-I approach technology with the eye of an artist—finding beauty in algorithms and elegance in architecture. I aspire to contribute to the tech industry where creativity and logic work like a perfect team play to serve communities.
+I approach technology with the eye of an artist—finding beauty in algorithms and elegance in architecture. I aspire to contribute to the tech industry where creativity and logic work like a perfect team to serve communities.
 `The best code, like the best football, makes the complex look effortless.`
 
 _____________________________________________________________
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 ## Contact Me
 - LinkedIn: https://www.linkedin.com/in/meaza-misgina-sibhat-89b140323/
 
-🚀Feel free to reach out if you want to collaborate.
+🚀 Feel free to reach out if you want to collaborate.
 _____________________________________________________________
