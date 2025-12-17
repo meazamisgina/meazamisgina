@@ -5,12 +5,12 @@ I approach technology with the eye of an artist, finding beauty in algorithms an
 
 _____________________________________________________________
 
-## About Me
+<!-- ## About Me
 I’m passionate about the intersection of creativity and technology, driven to craft meaningful solutions that make a real difference in people’s lives. With the experience across full-stack development, mobile applications, UX/UI design, and product management, I love turning intricate problems into seamless, impactful experiences.
 
 _____________________________________________________________
 
-
+<!--
 
 <!--
 **meazamisgina/meazamisgina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
