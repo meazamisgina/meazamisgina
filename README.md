@@ -1,7 +1,6 @@
 ## Hi, I'm Meaza 👋
 
-I approach technology with the eye of an artist, finding beauty in algorithms and elegance in architecture. I aspire to contribute to the tech industry where creativity and logic work like a perfect team to serve communities.
-
+Software Engineer building AI-powered applications, backend systems, and real-time products with Python, Django, and Next.js.
 
 _____________________________________________________________
 
