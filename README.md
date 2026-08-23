@@ -25,6 +25,7 @@ I enjoy working on products where software, data, and real-world problems come t
 
 ### Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://shields.io)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -47,7 +48,7 @@ Computer vision system built with PyTorch and ResNet50 to classify leaf images a
 
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/meaza-misgina-sibhat-89b140323/)) · [Email](mailto:misginameaza@gmail.com)
 
 <!-- ## About Me
 I’m passionate about the intersection of creativity and technology, driven to craft meaningful solutions that make a real difference in people’s lives. With the experience across full-stack development, mobile applications, UX/UI design, and product management, I love turning intricate problems into seamless, impactful experiences.
