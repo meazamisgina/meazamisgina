@@ -2,8 +2,7 @@
 
 Software Engineer building AI-powered applications, backend systems, and real-time products with Python, Django, and modern web technologies.
 
-I enjoy working on products where software, data, and real-world problems come together — from AI-powered recruitment systems to IoT monitoring platforms and computer vision applications.
-
+I work on AI, backend, and full-stack projects, with experience building recruitment platforms, IoT systems, and computer vision applications.
 ## What I Work With
 
 ### Languages
