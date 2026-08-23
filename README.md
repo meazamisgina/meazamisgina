@@ -1,43 +1,63 @@
 # Hi, I'm Meaza Misgina Sibhat
 
-Software Engineer building AI-powered applications, backend systems, and real-time products with Python, Django, and Next.js.
+Software Engineer building AI-powered applications, backend systems, and real-time products with Python, Django, and modern web technologies.
 
-I enjoy working on products where software, data, and real-world problems come together, from AI-powered recruitment systems to IoT monitoring platforms and computer vision applications.
+I enjoy working on products where software, data, and real-world problems come together — from AI-powered recruitment systems to IoT monitoring platforms and computer vision applications.
 
 ## What I Work With
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frameworks & Databases
+### Backend & APIs
 ![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://shields.io)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+WebSockets · MQTT (HiveMQ) · Celery
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+React Native · Tailwind CSS
+
+### AI & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+Hugging Face Transformers · ResNet50 · RAG · NLTK · Google Gemini API
+
+### Testing & Collaboration
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+Swagger · Cypress · Manual & Automated Testing · CI/CD · ClickUp
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+Railway · Heroku · Vercel · Cloudflare R2 · Sentry
 
 ## Selected Work
 
-**ServiaAI**  
+**[ServiaAI](https://github.com/sororatech/servia-backend)**  
 AI-powered recruitment platform where I contribute as a Full Stack Engineer, working across the product and backend systems.
 
-**KukuKonnect**  
+**[KukuKonnect](https://github.com/meazamisgina/kukukonnect-backend)**  
 IoT poultry monitoring platform built with ESP32, MQTT, Django, and Next.js, connecting real-time sensor data with a web-based monitoring system.
 
-**Crop Disease Detector**  
+**[Crop Disease Detector](https://github.com/meazamisgina/crop-disease-detection)**  
 Computer vision system built with PyTorch and ResNet50 to classify leaf images across 38 plant disease and healthy-leaf classes, with a Streamlit prediction interface.
 
 ## Currently
@@ -48,7 +68,7 @@ Computer vision system built with PyTorch and ResNet50 to classify leaf images a
 
 ## Connect
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/meaza-misgina-sibhat-89b140323/)) · [Email](mailto:misginameaza@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/meaza-misgina-sibhat-89b140323/) · [Email](mailto:misginameaza@gmail.com)
 
 <!-- ## About Me
 I’m passionate about the intersection of creativity and technology, driven to craft meaningful solutions that make a real difference in people’s lives. With the experience across full-stack development, mobile applications, UX/UI design, and product management, I love turning intricate problems into seamless, impactful experiences.
