@@ -3,6 +3,7 @@
 Software Engineer building AI-powered applications, backend systems, and real-time products with Python, Django, and modern web technologies.
 
 I work on AI, backend, and full-stack projects, with experience building recruitment platforms, IoT systems, and computer vision applications.
+
 ## What I Work With
 
 ### Languages
@@ -25,7 +26,7 @@ WebSockets · MQTT (HiveMQ) · Celery
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-React Native · Tailwind CSS
+Tailwind CSS
 
 ### AI & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -46,7 +47,7 @@ Swagger · Cypress · Manual & Automated Testing · CI/CD · ClickUp
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Railway · Heroku · Vercel · Cloudflare R2 · Sentry
+Railway · Heroku · Cloudflare R2 · Sentry
 
 ## Selected Work
 
@@ -67,7 +68,7 @@ Computer vision system built with PyTorch and ResNet50 to classify leaf images a
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/meaza-misgina-sibhat-89b140323/) · [Email](mailto:misginameaza@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/meaza-misgina-sibhat-89b140323/) &nbsp;|&nbsp; [Email: misginameaza@gmail.com](mailto:misginameaza@gmail.com)
 
 <!-- ## About Me
 I’m passionate about the intersection of creativity and technology, driven to craft meaningful solutions that make a real difference in people’s lives. With the experience across full-stack development, mobile applications, UX/UI design, and product management, I love turning intricate problems into seamless, impactful experiences.
