@@ -20,7 +20,7 @@ I work on AI, backend, and full-stack projects, with experience building recruit
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-WebSockets · MQTT (HiveMQ) · Celery
+WebSockets,  MQTT (HiveMQ),  Celery
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -34,20 +34,20 @@ Tailwind CSS
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-Hugging Face Transformers · ResNet50 · RAG · NLTK · Google Gemini API
+Hugging Face Transformers,  ResNet50,  RAG,  NLTK, Google Gemini API
 
 ### Testing & Collaboration
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-Swagger · Cypress · Manual & Automated Testing · CI/CD · ClickUp
+Swagger,  Cypress,  Manual & Automated Testing,  CI/CD,  ClickUp
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Railway · Heroku · Cloudflare R2 · Sentry
+Railway,  Heroku,  Cloudflare R2,  Sentry
 
 ## Selected Work
 
